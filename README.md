@@ -97,7 +97,7 @@ In conclusion, the detailed analysis for Minnesota showcases a concerning rise i
 ## How to Use
 
 1. **Clone the Repository**: Clone this repository to your local machine.
-2. **Install Dependencies**: Ensure you have the necessary Python libraries installed. Refer to the `requirements.txt` file for the list of dependencies.
+2. **Install Dependencies**: Ensure you have the necessary Python libraries installed-plotly,pandas,dash,matplotlib
 3. **Run the Dashboard**: Execute the Jupyter notebook in Google Colab or any local Jupyter environment to generate the visualizations and run the Dash app.
 
 ## Acknowledgements
