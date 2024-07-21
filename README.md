@@ -64,15 +64,4 @@ This project involves the development of an interactive dashboard to monitor and
 - Centers for Disease Control and Prevention. [CDC Wonder API](https://wonder.cdc.gov).
 - World Health Organization. [GHO OData API](https://ghoapi.azureedge.net/api).
 
-## Contact
 
-For any questions or feedback regarding this project, please contact:
-
-Aarav Kalkar
-Email: aaravkalkar@gmail.com
-
-Thank you for exploring the Health Inequities Dashboard project. Your feedback and contributions are highly valued.
-
----
-
-This README provides a comprehensive overview of the project, ensuring that anyone accessing the GitHub repository can understand the objectives, methodologies, and usage of the dashboard. It also acknowledges the sources and tools used in the project development.
