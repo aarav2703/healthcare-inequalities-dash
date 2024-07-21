@@ -63,7 +63,7 @@ Finally, the trend analysis of mortality rates over the years reveals a concerni
 
 These visualizations collectively provide a comprehensive understanding of health inequities, emphasizing the need for targeted public health strategies to address disparities in mortality and life expectancy across different regions and populations.
 
-##Insights for Minnesota
+## Insights for Minnesota
 Trend of Mortality Rates Over Years in Minnesota: The trend analysis of mortality rates in Minnesota reveals a steady increase in the number of deaths from the year 1999 to 2016. Starting from just over 100 deaths in 1999, the number has risen consistently, reaching nearly 700 deaths by 2016. This increasing trend highlights a growing concern for public health and the need for effective interventions to curb the rising mortality rates in the state.
 
 
