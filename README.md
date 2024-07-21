@@ -6,6 +6,8 @@
 
 This project involves the development of an interactive dashboard to monitor and analyze health inequities using public health data. The dashboard leverages data from the CDC and WHO to visualize trends, correlations, and combined analyses of mortality rates and life expectancy. The primary goal is to provide insights into health disparities across different states and countries.
 
+## [Note-The code was run on Google Colab and the dashboard was visualized using dash, The dashboard and visualizations are not being shown when the notebook is being saved in GitHub-a pf showing outputs has been attached as well as the notebooks-To access the complete outputs and interactive Dashboard please run in google colab.\]
+
 ## Objectives
 
 1. **Trend Analysis**: Visualize the trend of mortality rates over the years to identify any significant changes or patterns.
