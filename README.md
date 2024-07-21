@@ -60,7 +60,6 @@ https://colab.research.google.com/drive/1SW-OFQgzCPV5_b1kIgvEs-Kj5sX9dz2i?usp=sh
 - **Life Expectancy Tab**: Visualizes the average life expectancy by country using bar charts.
 - **Combined Data Analysis Tab**: Combines CDC and WHO data to analyze deaths and life expectancy through scatter plots.
 
-Here’s a detailed and informative paragraph summarizing the insights from the visualizations for your README:
 
 ---
 
