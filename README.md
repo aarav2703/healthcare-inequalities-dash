@@ -63,6 +63,22 @@ Finally, the trend analysis of mortality rates over the years reveals a concerni
 
 These visualizations collectively provide a comprehensive understanding of health inequities, emphasizing the need for targeted public health strategies to address disparities in mortality and life expectancy across different regions and populations.
 
+##Insights for Minnesota
+Trend of Mortality Rates Over Years in Minnesota: The trend analysis of mortality rates in Minnesota reveals a steady increase in the number of deaths from the year 1999 to 2016. Starting from just over 100 deaths in 1999, the number has risen consistently, reaching nearly 700 deaths by 2016. This increasing trend highlights a growing concern for public health and the need for effective interventions to curb the rising mortality rates in the state.
+
+
+Combined Analysis of Deaths and Life Expectancy in Minnesota: The combined analysis of deaths and life expectancy in Minnesota shows a rather sparse data distribution. This might indicate data limitations or the need for further detailed datasets to comprehensively analyze the relationship between the number of deaths and the average life expectancy in the state.
+
+
+Correlation between Age-Adjusted Mortality Rate and Deaths in Minnesota: The scatter plot for Minnesota shows a strong positive correlation between the age-adjusted mortality rate and the number of deaths. As the age-adjusted mortality rate increases, the number of deaths also increases, indicating that higher mortality rates are associated with more deaths in the state. This correlation is visually represented with a clear upward trend line in the scatter plot.
+
+
+Average Life Expectancy by Year in Minnesota: The bar chart for average life expectancy by year in Minnesota did not provide a detailed visual output due to limited data. More comprehensive life expectancy data over the years would be beneficial to analyze trends and make meaningful interpretations for Minnesota.
+
+
+In conclusion, the detailed analysis for Minnesota showcases a concerning rise in mortality rates over the years and a strong correlation between age-adjusted mortality rates and the number of deaths. These findings underscore the importance of focused public health strategies and continuous monitoring to address the underlying causes and improve health outcomes in Minnesota.
+
+
 
 ## How to Use
 
