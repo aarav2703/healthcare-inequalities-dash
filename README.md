@@ -81,15 +81,15 @@ In conclusion, the detailed analysis for Minnesota showcases a concerning rise i
 ## How to Use
 
 1. **Clone the Repository**: Clone this repository to your local machine.
-2. **Install Dependencies**: Ensure you have the necessary Python libraries installed (plotly, pandas, dash, matplotlib).
+2. **Install Dependencies**:  (plotly, pandas, dash, matplotlib).
 3. **Run the Dashboard**: Execute the Jupyter notebook in Google Colab or any local Jupyter environment to generate the visualizations and run the Dash app.
 
 ## Acknowledgements
 
 - **CDC**: For providing access to comprehensive mortality data.
 - **WHO**: For offering detailed life expectancy data through their Global Health Observatory.
-- **Google Colab**: For providing an accessible environment to develop and test this project.
-- **Plotly and Dash**: For visualization and dashboarding tools.
+- **Google Colab**
+- **Plotly and Dash**: For visualization and dashboarding 
 
 ## Citation
 
