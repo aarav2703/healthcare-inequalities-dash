@@ -96,6 +96,4 @@ In conclusion, the detailed analysis for Minnesota showcases a concerning rise i
 - Centers for Disease Control and Prevention. [CDC Wonder API](https://wonder.cdc.gov).
 - World Health Organization. [GHO OData API](https://ghoapi.azureedge.net/api).
 
----
 
-This README file is well-structured, detailed, and contains all the necessary information about your project, making it suitable for a professional portfolio or resume.
