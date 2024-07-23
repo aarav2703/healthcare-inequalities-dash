@@ -89,7 +89,7 @@ In conclusion, the detailed analysis for Minnesota showcases a concerning rise i
 - **CDC**: For providing access to comprehensive mortality data.
 - **WHO**: For offering detailed life expectancy data through their Global Health Observatory.
 - **Google Colab**
-- **Plotly and Dash**: For visualization and dashboarding 
+- **Plotly and Dash**: For visualization and dashboarding tools
 
 ## Citation
 
